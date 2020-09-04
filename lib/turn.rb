@@ -1,4 +1,4 @@
-def display_board(num)
+def display_board(board)
   
   
 end
