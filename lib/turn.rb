@@ -1,4 +1,4 @@
 def display_board(board)
-  puts board
+  print board
   
 end
